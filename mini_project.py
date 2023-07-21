@@ -45,7 +45,7 @@ def get_faces(frame):
                 face_names.append(name)
             if name=="Unknown":
                 print(".//.//.///.")
-                serverToken = 'AAAABD-Z7oI:APA91bF4_D-3E9BbHgg8t_GWxxAhPlEEuceAP9tgh5rMCOhAtZY1kz7sY9pPPfi1YVtVpmH-2lj9I7ITMOU2H8W5SopGrIyT4XWkIaod-0GhUxok48BUZZTDFD-_WEC5ZjBEIn4d8p0Z'
+                serverToken = 'enter server token'
                 deviceToken = 'device token here'
 
                 headers = {

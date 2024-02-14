@@ -21,7 +21,7 @@ known_face_encodings = [
     encoding,encoding2,encoding3
 ]
 known_face_names = [
-    "Srivatsan","Srivatsan","keshav"
+    "Srivatsan","Vyas","keshav"
 ]
 face_locations = []
 face_encodings = []
